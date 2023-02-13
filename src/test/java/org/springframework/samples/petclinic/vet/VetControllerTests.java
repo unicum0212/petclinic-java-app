@@ -57,7 +57,7 @@ class VetControllerTests {
 
 	private Vet helen() {
 		Vet helen = new Vet();
-		helen.setFirstName("Helen");
+		helen.setFirstName("-214909_=+*&#");
 		helen.setLastName("Leary");
 		helen.setId(2);
 		Specialty radiology = new Specialty();
